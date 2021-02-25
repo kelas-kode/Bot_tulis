@@ -24,7 +24,7 @@ Progam di buat dengan pemrograman python
 dan membutuhkan modul requests<br>
 Install modul requests dengan perintah [pip](https://pip.pypa.io/en/stable/)
 ```bash
-$ apt update && pkg upgrade
+$ apt update && apt upgrade
 $ apt install python
 $ apt install git
 $ apt install requests
