@@ -44,3 +44,9 @@ import os # untuk membersihkan layar
 ## Screenshots
 + cara menggunakan
 ![template_s](https://github.com/kelas-kode/Bot_tulis/blob/main/Screenshot_20210226-044749373~01.jpg) 
++ hasilnya
+![template_s](https://github.com/kelas-kode/Bot_tulis/blob/main/f2adb4945cff.jpg)
+<br>
+<p align="center">
+[@Copy Right Kelas Kode](https://github.com/kelas-kode)
+</p>
