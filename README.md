@@ -43,4 +43,3 @@ import os # untuk membersihkan layar
 
 ## Screenshots
 + cara menggunakan
-![template_s]() 
