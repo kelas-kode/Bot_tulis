@@ -48,5 +48,5 @@ import os # untuk membersihkan layar
 ![template_s](https://github.com/kelas-kode/Bot_tulis/blob/main/f2adb4945cff.jpg)
 <br>
 <p align="center">
-©Copyright [Kelas-Kode](https://github.com/kelas-kode/)
+©Copyright Kelas Kode
 </p>
