@@ -20,8 +20,8 @@ Tools bot tulis
 + Bot tulis lewat file
 
 ## INSTALL
-Progam di buat dengan pemrograman python<br>
-Dan membutuhkan modul requests<br>
+Progam di buat dengan pemrograman python
+dan membutuhkan modul requests<br>
 Install modul requests dengan perintah [pip](https://pip.pypa.io/en/stable/)
 ```bash
 $ apt update && pkg upgrade
@@ -40,3 +40,7 @@ import shutil # untuk menyimpan gambar ke lokal
 import json # untuk parsing json
 import os # untuk membersihkan layar
 ```
+
+## Screenshots
++ cara menggunakan
+![template_s]() 
