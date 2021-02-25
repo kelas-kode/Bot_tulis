@@ -20,8 +20,8 @@ Tools bot tulis
 + Bot tulis lewat file
 
 ## INSTALL
-Progam di buat dengan pemrograman python
-Dan membutuhkan modul requests 
+Progam di buat dengan pemrograman python<br>
+Dan membutuhkan modul requests<br>
 Install modul requests dengan perintah [pip](https://pip.pypa.io/en/stable/)
 ```bash
 $ apt update && pkg upgrade
