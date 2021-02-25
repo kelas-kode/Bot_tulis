@@ -15,11 +15,11 @@ Tools bot tulis
 <a href="https://github.com/kelas-kode/Bot_tulis/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/kelas-kode/Bot_tulis?label=Watchers&color=blue&style=flat-square"></a>
 </p> 
 
-# Fitur
+## Fitur
 + Bot tulis biasa
 + Bot tulis lewat file
 
-# INSTALL
+## INSTALL
 ```bash
 $ apt update && pkg upgrade
 $ apt install python
@@ -29,3 +29,11 @@ $ git clone https://github.com/kelas-kode/Bot_tulis
 $ cd Bot_tulis
 $ python3 bot.py
 ``` 
+
+## Usage
+```python
+import requests # untuk mendapatkan gambar dari web
+import shutil # untuk menyimpan gambar ke lokal
+import json # untuk parsing json
+import os # untuk membersihkan layar
+```
